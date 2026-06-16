@@ -5,7 +5,6 @@
 This project implements a parameterized Asynchronous FIFO using SystemVerilog for safe data transfer between independent clock domains.
 
 ## Features
-
 * Configurable DATA_WIDTH and DEPTH
 * Independent read and write clock domains
 * Gray code pointer synchronization
