@@ -17,7 +17,7 @@ This project implements a parameterized Asynchronous FIFO using SystemVerilog fo
 * Vivado Simulator
 
 ## Waveform
-![Async FIFO](waveform/async_fifo.png)
+![Async FIFO Waveform](waveform/async_fifo.png)
 
 ### Complete FIFO Operation
 The waveform demonstrates:
